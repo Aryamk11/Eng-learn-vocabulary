@@ -1,6 +1,6 @@
 # My English Learning Journal
 
-Welcome to my personal vocabulary log. I update the current week's file by adding at least five new words every day.
+Welcome to my personal vocabulary log. The words I choose come from various media I enjoy, such as manhwas, YouTube videos, movies, and books. I update the current week's file by adding at least five new words every day!
 
 Each entry contains definitions, synonyms, antonyms, and sometimes example sentences to help with learning.
 
