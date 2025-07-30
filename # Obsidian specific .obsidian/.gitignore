@@ -1,6 +1,0 @@
-# Obsidian specific
-.obsidian/
-
-# General system files
-.DS_Store
-Thumbs.db
