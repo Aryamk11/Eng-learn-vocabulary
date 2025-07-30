@@ -4,7 +4,18 @@ Welcome to my personal vocabulary log. I update the current week's file by addin
 
 Each entry contains definitions, synonyms, antonyms, and sometimes example sentences to help with learning.
 
+### My Go-To Resources
+* [Longman Dictionary](https://www.ldoceonline.com/)
+* [Thesaurus.com](https://www.thesaurus.com/)
+* [Glosbe](https://glosbe.com/)
+* [Vocabulary.com](https://www.vocabulary.com/)
+* [WordHippo](https://www.wordhippo.com/)
+* [Reverso Dictionary](https://dictionary.reverso.net/)
+
+---
+
 ## 2025 Vocabulary Log
 
+*The most recent week is always at the top.*
 
-- **Week 31 (July 28th - Aug 3rd):** [2025-Week-31.md](https://github.com/Aryamk11/Eng-learn-vocabulary/blob/main/words/2025-Week-31.md)
+* **Week 31 (July 28th - Aug 3rd):** [2025-Week-31.md](https://github.com/Aryamk11/Eng-learn-vocabulary/blob/main/words/2025-Week-31.md)
