@@ -18,4 +18,5 @@ Each entry contains definitions, synonyms, and sometimes example sentences to he
 
 *The most recent week is always at the top.*
 
+* **Week 32 (Aug 4th - Aug 10th):** [2025-Week-32.md](https://github.com/Aryamk11/Eng-learn-vocabulary/blob/main/words/2025-Week-32.md)
 * **Week 31 (July 28th - Aug 3rd):** [2025-Week-31.md](https://github.com/Aryamk11/Eng-learn-vocabulary/blob/main/words/2025-Week-31.md)
